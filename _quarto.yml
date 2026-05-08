@@ -1,0 +1,15 @@
+project:
+  type: website
+website: 
+  title: "Register Google Earth Engine"
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    column: page
+
+
+

@@ -1,0 +1,31 @@
+
+# Register Google Earth Engine
+
+Google Earth Engine (GEE) is a cloud-based platform for geospatial analysis. To use it in the course *Remote Sensing and Geodata Acquisition*, you need to register a project for non-commercial use.
+
+**Prerequisites:** A Google account (personal or institutional).
+
+:::{.column-screen}
+
+
+![Go to [code.earthengine.google.com](https://code.earthengine.google.com) and login with your google account. Choose *I want to register a new product*](images/Register-01.png){#fig-01}
+
+![Register for non-commercial use](images/Register-02.png){#fig-02}
+
+![Choose *Private or academic institution*](images/Register-03.png){#fig-03}
+
+![Under *Check non-commercial eligibility*: enter the full institution name (*Zürcher Hochschule für Angewandte Wissenschaften*), select *No* for payment, select *Scientific research* for use description, and enter your own research question.](images/Register-04.png){#fig-04}
+
+![Select *Regional* for geographic scope and specify your region. Select *No* for previously published work. You should see the message "Based on your answers, you are eligible for non-commercial Earth Engine use." Click *Next*.](images/Register-05.png){#fig-05}
+
+![Under *Choose your plan*, select *Community* (intended for undergraduate students, no billing account required). Click *Next*.](images/Register-06.png){#fig-06}
+
+![Under *Describe your work*, check the categories that apply to your work and select a use case from the dropdown. Then click *Register*.](images/Register-07.png){#fig-07}
+
+![You should now see that your project is registered for non-commercial use](images/Register-08.png){#fig-08}
+
+![You should be redirected to the Earth Engine welcome page in Google Cloud Console, confirming your project is set up.](images/Register-09.png){#fig-09}
+
+![If you go to [code.earthengine.google.com](https://code.earthengine.google.com), your username should be blue, and not orange with a warning. If it is still orange, wait a few minutes and refresh — approval is usually instant but can take up to an hour.](images/Register-10.png){#fig-10}
+
+:::
